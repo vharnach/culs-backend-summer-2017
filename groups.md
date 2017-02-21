@@ -19,3 +19,11 @@
 * Jan Jerabek
 * Seifeldin Azzam
 * Xheni Haka
+
+# Group 4
+* Viktor Harach
+* Marek Jesenský
+* Vojtěch Zelený
+* Arezoo Noushiravan
+* Mirnesa Hodžić
+* Tùng Quân Dương
