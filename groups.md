@@ -27,6 +27,7 @@ http://docs.tutoru.apiary.io/#
 
 # Group 4
 - https://github.com/vharnach/SSProject.git
+-http://docs.ssproject.apiary.io/#
 * Vojtěch Zelený
 * Viktor Harnach
 * Marek Jesenský
